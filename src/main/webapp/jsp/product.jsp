@@ -14,6 +14,9 @@
 <br/>
 <p>Manufacturer: <%=request.getAttribute("manufacturer")%>
 <br/>
-
+<p>
+    <form action="listP">
+<p><input type="submit" value="ShowAllProduct"></p>
+</form>
 </body>
 </html>

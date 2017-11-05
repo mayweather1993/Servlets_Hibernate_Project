@@ -11,5 +11,8 @@
     <br/>
 <p>Name: <%=request.getAttribute("name")%>
     <br/>
+    <form action="listM">
+<p><input type="submit" value="ShowAllManufacturer"></p>
+</form>
 </body>
 </html>
