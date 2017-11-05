@@ -1,2 +1,4 @@
 .idea
-.target
+/target
+goitServlet.iml
+target/generated-sources/
