@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="goitServlet:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="goitServlet.war">
+      <element id="artifact" artifact-name="goitServlet:war exploded" />
+    </root>
+  </artifact>
+</component>
